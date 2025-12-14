@@ -1,2 +1,3 @@
 # .github
-A ✨special ✨ repository that you can use to add a README.md to your public organization profile, visible to anyone.
+
+A ✨special ✨ repository to add a README.md to the public organization profile, visible to anyone.
